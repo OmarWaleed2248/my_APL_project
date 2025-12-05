@@ -3,11 +3,11 @@
 This is a simple **Web Scraping** project made using **Python**, **Requests**, **BeautifulSoup**, and **Pandas**.  
 The script collects quotes and their authors from the website:
 
-🔗 https://quotes.toscrape.com/
+ https://quotes.toscrape.com/
 
 ---
 
-## 📌 Project Description
+# Project Description
 
 The script sends a request to the website, extracts:
 - Quote text  
@@ -25,14 +25,14 @@ Then saves the collected data into a CSV file called **quotes.csv**.
 
 ---
 
-##  Files in the Project
+#  Files in the Project
 - `scraper.py` → Main Python script for scraping data  
 - `quotes.csv` → The exported data (created automatically)
 - `README.md` → Project documentation
 
 ---
 
-## ▶️ How to Run the Project
+# How to Run the Project
 
 1. Install required libraries:
    ```bash
