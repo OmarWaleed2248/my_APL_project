@@ -18,5 +18,6 @@ for q, a in zip(quotes, authors):
 df = pd.DataFrame(data)
 df.to_csv("quotes.csv", index=False)
 
-print("✅ تم حفظ البيانات في quotes.csv")
+print("quotes.csv")
+
 
